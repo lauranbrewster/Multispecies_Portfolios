@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "C:/Users/lbrewster/AppData/Local/Programs/R/R-4.2.0/library",
+        "installDependencies": true
+    }
+}
